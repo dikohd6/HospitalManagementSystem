@@ -21,5 +21,9 @@
             <li><a href="nurseworksfor.php">Display nurse's information</a></li>
         </ul>
     </div>
+   <div class="bottom-image">
+    <img src="images/clinic.jpg" alt="DK Clinic" />
+  </div> 
 </body>
+
 </html>

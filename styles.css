@@ -106,3 +106,17 @@ footer {
     color: #6c757d;
     font-size: 14px;
 }
+.bottom-image {
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: -1; /* Push behind other content if necessary */
+  opacity: 0.9;
+}
+
+.bottom-image img {
+  max-width: 500px;
+  height: auto;
+  border-radius: 100px;
+}
